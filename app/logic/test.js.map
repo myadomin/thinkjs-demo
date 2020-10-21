@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "sources": [
+        "..\\..\\src\\logic\\test.js"
+    ],
+    "names": [
+        "module",
+        "exports",
+        "think",
+        "Logic",
+        "testAction"
+    ],
+    "mappings": "AAAAA,OAAOC,OAAP,GAAiB,cAAcC,MAAMC,KAApB,CAA0B;AACzCC,eAAa,CAEZ;AAHwC,CAA3C",
+    "file": "..\\..\\src\\logic\\test.js",
+    "sourcesContent": [
+        "module.exports = class extends think.Logic {\n  testAction() {\n\n  }\n};\n"
+    ]
+}
